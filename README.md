@@ -1,4 +1,6 @@
-## Olá Mundo! Eu sou o Guilherme Rodrigues, venha ver alguns de meus projetos.
+## Olá Mundo! Eu sou o Guilherme Rodrigues 🤴🏾
+
+De
 
 <div>
   <a href="https://github.com/GuilhermeRodrigues15">
