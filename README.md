@@ -1,4 +1,4 @@
-## Olá Mundo! Eu sou o Guilherme Rodrigues 🤴🏾
+<img  src="https://readme-typing-svg.herokuapp.com?color=%23F79E5D&size=40&center=true&width=1084&height=200&lines=Olá+Mundo!+Eu+sou+o+Guilherme+Rodrigues+🤴🏾" alt="Typing SVG"/>
 
 - Desenvolvedor Web Fullstack
 - Atualmente estudando Front-end
