@@ -30,9 +30,6 @@
       <td><img heigth="100em" width="110em" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown badge"></td>
     </tr>
   </table>
-  
-  ![Snake animation](https://github.com/GuilhermeRodrigues15/GuilhermeRodrigues15/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 </div>
